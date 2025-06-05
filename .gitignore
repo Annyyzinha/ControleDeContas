@@ -1,0 +1,18 @@
+# Arquivos de IDE (Android Studio)
+.idea/
+*.iml
+*.hprof
+
+# Arquivos locais
+local.properties
+
+# Arquivos de build do Gradle
+.gradle/
+build/
+
+# Captures and logs
+captures/
+*.log
+
+# Outros
+.DS_Store
