@@ -83,4 +83,6 @@ Para executar este projeto, siga os passos abaixo:
 
 ---
 
-Desenvolvido com ❤️ por **Annyyzinha**
+<div align="center">
+  Desenvolvido com ❤️ por <strong>Annyyzinha</strong>
+</div>
