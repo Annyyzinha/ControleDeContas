@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.ControleDeContas" parent="Theme.Material3.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/azul_principal</item>
+        <item name="colorPrimary">@color/azul_principal</item>
+        <item name="colorOnPrimary">@color/branco</item>
+        <item name="colorSecondary">@color/laranja_alerta</item>
+        <item name="colorOnSecondary">@color/preto</item>
+    </style>
+
+    <style name="Theme.ControleDeContas.NoActionBar" parent="Theme.ControleDeContas">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

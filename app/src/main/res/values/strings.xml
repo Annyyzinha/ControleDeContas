@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bill Manager</string>
+    <string name="conta_formatada" translatable="false">%1$s\n%2$s | %3$s\n%4$s | %5$s</string>
+    <string name="error_nome_obrigatorio">Name is required</string>
+    <string name="error_valor_positivo">Amount must be positive</string>
+    <string name="error_informe_nome">Enter account name</string>
+    <string name="error_informe_valor">Enter amount</string>
+    <string name="error_informe_data">Enter due date</string>
+    <string name="error_selecione_status">Select status</string>
+    <string name="error_selecione_categoria">Select a category</string>
+    <string name="error_valor_invalido">Invalid amount</string>
+    <string name="error_categoria_ja_existe">A category with this name already exists.</string>
+    <string name="status_paga">Paid</string>
+    <string name="status_em_aberto">Pending</string>
+    <string name="hint_valor" translatable="false">00.00</string>
+    <string name="lembrete_ativo">Reminder: Active</string>
+    <string name="lembrete_inativo">Reminder: Inactive</string>
+    <string name="lista_vazia">No accounts registered\nUse the menu to add</string>
+    <string name="msg_conta_excluida">Account deleted</string>
+    <string name="cadastro_conta">Account Registration</string>
+    <string name="label_nome_conta">Account Name</string>
+    <string name="hint_nome_conta">e.g., Electricity Bill</string>
+    <string name="label_valor">Amount</string>
+    <string name="label_data_vencimento">Due Date</string>
+    <string name="label_status">Status</string>
+    <string name="label_categoria">Category</string>
+    <string name="label_lembrete">Enable reminders for this account</string>
+    <string name="selecione">Select...</string>
+    <string name="sobre_aplicativo">About the App</string>
+    <string name="desenvolvedor">Developer:</string>
+    <string name="nome_desenvolvedor" translatable="false">Anny Vitoria Costa</string>
+    <string name="email_desenvolvedor" translatable="false">annycosta@alunos.utfpr.edu.br</string>
+    <string name="utfpr" translatable="false">UTFPR - Cornélio Procópio Campus</string>
+    <string name="curso">Course: Software Engineering</string>
+    <string name="menu_salvar">Save</string>
+    <string name="menu_limpar">Clear</string>
+    <string name="menu_adicionar">Add</string>
+    <string name="menu_sobre">About</string>
+    <string name="menu_editar">Edit</string>
+    <string name="menu_excluir">Delete</string>
+    <string name="menu_settings">Settings</string>
+    <string name="settings_title">App Settings</string>
+    <string name="pref_default_reminder_key" translatable="false">default_reminder_active_pref_key</string>
+    <string name="pref_default_reminder_label">Default Reminder State for New Accounts</string>
+    <string name="pref_default_reminder_summary">Set the initial state of the \"Enable reminders\" checkbox when adding a new account.</string>
+    <string name="cadastro_categoria">Category Registration</string>
+    <string name="label_nome_categoria">Category Name</string>
+    <string name="hint_nome_categoria">Ex: Housing</string>
+    <string name="lista_vazia_categorias">No categories registered\nUse the menu to add</string>
+    <string name="menu_categorias">Categories</string>
+    <string name="menu_adicionar_categoria">Add Category</string>
+    <string name="confirmar_exclusao">Confirm Deletion</string>
+    <string name="mensagem_confirmar_exclusao">Are you sure you want to delete this item?</string>
+    <string name="sim">Yes</string>
+    <string name="nao">No</string>
+    <string name="confirmar_exclusao_categoria">Confirm Deletion</string>
+    <string name="mensagem_confirmar_exclusao_categoria">Are you sure you want to delete this category?</string>
+    <string name="categoria_excluida">Category deleted</string>
+    <string name="aviso_nenhuma_categoria_cadastrada">No categories registered. Please add a category first.</string>
+    <string name="aviso_cadastre_uma_categoria_primeiro">Please register a category first to be able to add an account.</string>
+    <string name="categorias">Categories</string>
+    <string name="error_informe_nome_categoria">Enter category name</string>
+    <string name="menu_acoes_conta">Account Actions</string>
+</resources>
